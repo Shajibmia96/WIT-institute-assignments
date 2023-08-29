@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar-wrapper{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(0, 255, 255, 0.075);
+    padding: 50px;
+
+   .navbar-logo{
+       width: 50%;
+   }
+  .menubar{
+    ul{ 
+        display: flex;
+       
+        
+        li{
+             list-style: none;
+             margin-right: 50px;
+             a{
+              color: rgba(255, 192, 203, 0.829);
+                text-decoration: none;
+                padding: 10px;
+                font-size: 20px;
+                font-weight: 500;
+             }
+          a:hover{
+            color : rgba(255, 166, 0, 0.377);
+            font-size: 20px;
+          }
+             
+        }
+    }
+  }
+
+}
