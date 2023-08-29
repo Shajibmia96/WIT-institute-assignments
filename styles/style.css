@@ -9,8 +9,13 @@
   background-color: rgba(0, 255, 255, 0.075);
   padding: 50px;
 }
+.navbar-wrapper span {
+  color: orangered;
+}
 .navbar-wrapper .navbar-logo {
-  width: 50%;
+  width: 30%;
+  font-size: 50px;
+  font-weight: 600;
 }
 .navbar-wrapper .menubar ul {
   display: flex;
@@ -20,7 +25,6 @@
   margin-right: 50px;
 }
 .navbar-wrapper .menubar ul li a {
-  color: rgba(255, 192, 203, 0.829);
   text-decoration: none;
   padding: 10px;
   font-size: 20px;
