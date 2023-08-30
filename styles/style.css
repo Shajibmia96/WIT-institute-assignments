@@ -52,4 +52,46 @@ header .banner h1 {
 header .banner p {
   text-align: center;
   padding-left: 500px;
+}
+
+main .main-wrapper {
+  background-color: rgba(0, 255, 255, 0.075);
+}
+main .main-wrapper .main-title {
+  font-size: 35px;
+  font-weight: 800px;
+  color: black;
+}
+main .main-wrapper .main-title h3 {
+  text-align: center;
+  text-decoration: underline;
+  padding-bottom: 13px;
+}
+main .main-wrapper .bow-wrapper {
+  margin-top: 0px;
+  display: grid;
+  grid-template-columns: 400px 400px 400px;
+  grid-gap: 10px;
+  background-color: #fff;
+  color: rgba(255, 192, 203, 0.336);
+  justify-content: center;
+  background-color: rgba(0, 255, 255, 0.075);
+  padding-top: 50px;
+}
+main .main-wrapper .bow-wrapper .box {
+  background-color: rgba(235, 136, 136, 0.7960784314);
+  color: #fff;
+  border-radius: 5px;
+  padding: 50px;
+  font-size: 150%;
+}
+main .main-wrapper .bow-wrapper .box .title {
+  font-size: 40px;
+  text-align: center;
+}
+main .main-wrapper .bow-wrapper .main-description {
+  font-size: 26px;
+  font-weight: 400;
+  color: black;
+  padding: 10px;
 }/*# sourceMappingURL=style.css.map */
