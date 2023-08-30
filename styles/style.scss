@@ -104,7 +104,7 @@
                         
                         .box{
                          
-                            background-color: #eb8888cb;
+                            background-color: #a7216250;
                              color: #fff;
                            border-radius: 5px;
                            padding: 50px;
@@ -125,5 +125,76 @@
 
                       }
                     }
-                }
-            }
+
+                 .mindset-wrapper{
+                  
+                   .mindset-fruit{
+                   
+                    background-image: url('/new-year-new-me/images/gradient2.png') , url('/new-year-new-me/images/watch.png');
+                     background-repeat: no-repeat;
+                     
+                     margin: 50px 0px 50px 310px;
+                     width: 100%;
+                     color: #fff;
+                     font-size: 30px;
+                     font-weight: 900;
+                     
+
+                    .mindset{
+                      padding: 100px;
+                      
+  
+                      
+                     
+                        
+                      }
+                      
+                     }
+                   }
+                 }
+
+                 footer{
+                  background-color: black;
+                  color: #fff;
+                   .footer-wrapper{
+                      display: flex;
+                      padding: 120px;
+                    .footer-fruit{
+                        
+                      .footer-title{
+                        width: 40%;
+                        img{
+                          margin-right: 20px;
+                        }
+                      }
+                     
+                    }
+                    .footer-input{
+                      margin-right: 150px;
+                      
+                      h1{
+                        font-size: 50px;
+                        margin-bottom: 10px;
+                      }
+                      input{
+                        padding: 20px;
+                        background-color: blanchedalmond;
+                        margin:20px 0px;
+                      }
+                    }
+                   }
+                 }
+
+                 .bnt-primary{
+                  padding: 10px 20px;
+                  color: orangered;
+                  font-size: 20px;
+                  font-weight: 600;
+                  margin-top: 10px;
+                  background-color: #fff;
+                     }
+
+
+
+                
+            
